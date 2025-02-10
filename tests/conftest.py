@@ -44,3 +44,4 @@ def mobile_management(context):
 
     if context == 'bstack':
         attach.add_video(session_id)
+

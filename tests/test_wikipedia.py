@@ -53,3 +53,4 @@ def test_open_first_article_DMC():
 
     with step('Кликаем элемент'):
         browser.all((AppiumBy.ID, 'org.wikipedia.alpha:id/page_list_item_title')).first.click()
+

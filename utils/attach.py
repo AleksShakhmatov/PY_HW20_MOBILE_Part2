@@ -31,3 +31,4 @@ def add_video(session_id):
         name='video recording',
         attachment_type=allure.attachment_type.HTML,
     )
+
